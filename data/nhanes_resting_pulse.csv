@@ -1,0 +1,12 @@
+# Resting pulse rate, beats/min, US adults without conditions or medication affecting pulse
+# Ostchega Y et al. Resting pulse rate reference data for children, adolescents, and adults: United States, 1999-2008.
+# National Health Statistics Reports No. 41, 2011, Tables 2 and 3. Empty cell = not reliable in the source.
+sex,age_lo,age_hi,mean,p1,p2.5,p5,p10,p25,p50,p75,p90,p95,p97.5,p99
+male,20,39,71,47,50,52,55,61,69,76,84,89,95,101
+male,40,59,71,46,49,52,55,61,68,77,85,90,95,104
+male,60,79,70,45,48,50,54,60,67,75,84,91,98,102
+male,80,120,71,,48,51,54,61,68,78,86,94,97,
+female,20,39,76,52,55,57,60,66,74,82,89,95,99,104
+female,40,59,73,51,53,56,59,64,71,79,86,92,97,101
+female,60,79,73,52,54,56,59,64,70,78,86,92,96,102
+female,80,120,73,,53,56,59,64,71,77,85,93,98,100
