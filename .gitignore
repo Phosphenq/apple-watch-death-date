@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+watch.json
+.live-go
+export.zip
+apple_health_export/
